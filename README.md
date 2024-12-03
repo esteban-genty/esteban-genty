@@ -11,7 +11,7 @@ Je suis un étudiant passionné par le développement et je me forme pour deveni
 
 ## Mes projets
 
-Je suis en train de développer plusieurs projets pour améliorer mes compétences. Tu peux consulter mes repos pour voir ce sur quoi je travaille !
+![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=esteban-genty&layout=compact)
 
 ## Comment me contacter
 
