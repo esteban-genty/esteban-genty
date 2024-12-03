@@ -11,14 +11,15 @@ Je suis un étudiant passionné par le développement et je me forme pour deveni
 
 ## Mes projets
 
+HTML / CSS : https://github.com/esteban-genty/RunTrack-HTML-CSS
+Python : https://github.com/esteban-genty/TicTacToe
+
 ![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=esteban-genty&layout=compact&theme=blue)
 
 
 ## Comment me contacter
 
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-  [Mon Profil LinkedIn](https://www.linkedin.com/in/esteban)
-
 - [Mon site web ou portfolio]
 
 N'hésite pas à me laisser un message si tu as des questions ou si tu veux collaborer !
