@@ -10,9 +10,8 @@ Je maîtrise plusieurs technologies qui me permettent de créer des projets int�
 
 - ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-%23FFCC00?style=for-the-badge&logo=python&logoColor=black)
 - ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
-- ![Bash](https://img.shields.io/badge/Bash-%23121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
 
