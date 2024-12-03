@@ -11,8 +11,8 @@ Je suis un étudiant passionné par le développement et je me forme pour deveni
 
 ## Mes projets
 
-- ![HTML/CSS](https://img.shields.io/badge/HTML%20%2F%20CSS-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) [Voir le projet HTML/CSS](https://github.com/esteban-genty/RunTrack-HTML-CSS)
-- ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white) [Voir le projet Python](https://github.com/esteban-genty/TicTacToe)
+- **HTML / CSS** ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white) : [Voir le projet](https://github.com/esteban-genty/RunTrack-HTML-CSS)
+- **Python** ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white) : [Voir le projet](https://github.com/esteban-genty/TicTacToe)
 
 
 ![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=esteban-genty&layout=compact&theme=blue)
