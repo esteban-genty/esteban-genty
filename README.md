@@ -38,8 +38,8 @@ Voici quelques projets sur lesquels j'ai travaillé récemment :
 
 Si tu souhaites échanger, n'hésite pas à me contacter via les plateformes ci-dessous :
 
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white) [Mon LinkedIn](https://www.linkedin.com/in/esteban)
-- [Mon site web ou portfolio](#) (à compléter avec l'URL de ton portfolio)
+- [Mon LinkedIn](https://www.linkedin.com/in/esteban)
+- [Mon site web ou portfolio](#)
 
 ---
 
