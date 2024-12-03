@@ -11,7 +11,7 @@ Je suis un étudiant passionné par le développement et je me forme pour deveni
 
 ## Mes projets
 
-![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=esteban-genty&layout=compact&theme=dark)
+![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=esteban-genty&layout=compact&theme=blue)
 
 
 ## Comment me contacter
