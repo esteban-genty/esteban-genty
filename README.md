@@ -16,7 +16,7 @@ Je maîtrise plusieurs technologies qui me permettent de créer des projets int�
 
 ---
 
-## 💻 Mes projets
+## 💻 Mes principaux projets
 
 Voici quelques projets sur lesquels j'ai travaillé récemment :
 
@@ -38,9 +38,5 @@ Voici quelques projets sur lesquels j'ai travaillé récemment :
 
 Si tu souhaites échanger, n'hésite pas à me contacter via les plateformes ci-dessous :
 
-- [Mon LinkedIn](https://www.linkedin.com/in/esteban)
-- [Mon site web ou portfolio](#)
-
----
-
-N'hésite pas à me laisser un message si tu as des questions ou si tu veux collaborer ! 😊
+- [Mon LinkedIn](https://www.linkedin.com/in/esteban-genty)
+- [Mon Portfolio](#)
