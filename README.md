@@ -7,10 +7,12 @@ Je suis un étudiant passionné par le développement web et je me forme pour de
 Je suis actuellement étudiant à **La Plateforme**, une école qui me permet d'acquérir des compétences pratiques en développement. Je suis motivé par l'apprentissage continu et j'aime relever de nouveaux défis techniques.
 
 ### Mes compétences :
-- **HTML** : Structure des pages web.
-- **CSS** : Mise en forme et design des sites web.
-- **Python** : Développement d'applications et scripts.
-- **GitHub** : Gestion de versions et collaboration sur des projets.
+- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 
 ## Mes projets
 
