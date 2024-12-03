@@ -16,11 +16,8 @@ Je suis un étudiant passionné par le développement et je me forme pour deveni
 
 ## Comment me contacter
 
-- [LinkedIn](https://www.linkedin.com/in/esteban)
+- ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
+
 - [Mon site web ou portfolio]
 
 N'hésite pas à me laisser un message si tu as des questions ou si tu veux collaborer !
-
----
-
-Merci de visiter mon profil. 😊
