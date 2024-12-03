@@ -29,7 +29,7 @@ Voici quelques projets sur lesquels j'ai travaillé récemment :
 
 ### 📊 Langages utilisés sur GitHub :
 
-![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=esteban-genty&layout=compact&theme=blue)
+![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=esteban-genty&layout=compact&theme=dark)
 
 ---
 
