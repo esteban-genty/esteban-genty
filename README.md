@@ -38,4 +38,4 @@ Voici quelques projets sur lesquels j'ai travaillé récemment :
 Si tu souhaites échanger, n'hésite pas à me contacter via les plateformes ci-dessous :
 
 - [Mon LinkedIn](https://www.linkedin.com/in/esteban-genty)
-- [Mon Portfolio](#)
+- [Mon Portfolio](https://esteban-genty.github.io/portfolio/)
