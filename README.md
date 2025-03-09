@@ -1,3 +1,5 @@
+<img src="/img/banner-github.jpg" alt="Haut de page" />
+
 # Salut, je suis Esteban 👋
 
 Je suis un étudiant passionné par le développement et je me forme pour devenir **développeur**.
