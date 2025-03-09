@@ -8,7 +8,7 @@ Je suis un étudiant passionné par le développement et je me forme pour deveni
 
 Je maîtrise plusieurs technologies qui me permettent de créer des projets intéressants et innovants :
 
-<img src="/img/languages.png" alt="Languages" />
+<img src="/img/language.png" alt="Languages" />
 
 
 ### 🛠 Les outils :
