@@ -23,11 +23,11 @@ J'utilise plusieurs outils pour réaliser des projets :
 
 Voici quelques projets sur lesquels j'ai travaillé récemment :
 
-- **HTML / CSS** : [Voir le projet RunTrack](https://github.com/esteban-genty/RunTrack-HTML-CSS)  
-  Un projet qui m'a permis de perfectionner mes compétences en HTML et CSS.
+- **Livre Or** : [Voir le projet livre-or](https://github.com/esteban-genty/livre-or)  
+  Un projet qui m'a permis de perfectionner mes compétences en PHP et MySQL.
   
-- **Python** : [Voir le projet TicTacToe](https://github.com/esteban-genty/TicTacToe)  
-  Un jeu classique de TicTacToe, conçu pour renforcer mes compétences en Python.
+- **QuizNight** : [Voir le projet QuizNight](https://github.com/esteban-genty/quiznight)  
+  Un quiz simple avec une gestions de question réponses pour utilisateurs.
 
 ---
 
