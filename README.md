@@ -10,7 +10,7 @@ Je suis un étudiant passionné par le développement web et je me forme pour de
 
 Je maîtrise plusieurs technologies qui me permettent de créer des projets intéressants et innovants :
 
-<img src="/img/language.png" alt="Languages" />
+<img src="/img/languages.png" alt="Languages" />
 
 
 ### 🛠 Les outils :
