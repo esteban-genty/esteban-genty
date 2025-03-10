@@ -2,7 +2,7 @@
 
 # Salut, je suis Esteban 👋
 
-Je suis un étudiant passionné par le développement et je me forme pour devenir **développeur**.
+Je suis un étudiant passionné par le développement web et je me forme pour devenir **Concepteur développeur d’applications**.
 
 ---
 
